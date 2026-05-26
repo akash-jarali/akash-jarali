@@ -107,15 +107,15 @@ Responsive travel planning interface with modern UI design.
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/akash-jarali">
 <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/akash-jarali/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:akashjarali36@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 
