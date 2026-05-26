@@ -125,25 +125,24 @@ Responsive travel planning interface with modern UI and clean layout design.
 
 ---
 
-# 📊 GitHub Overview
-
-<p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=akash-jarali&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-jarali&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
 # 🎓 Education
 
 ## 🎓 B.E. in Artificial Intelligence & Data Science
-
 📍 Angadi Institute of Technology and Management  
 📅 2022 – 2026  
 📊 CGPA: 7.92
+
+---
+
+## 🏫 Pre-University College (PUC)
+📍 YOUR_PUC_COLLEGE_NAME  
+📅 2020 – 2022
+
+---
+
+## 🏫 SSLC / 10th Standard
+📍 YOUR_SCHOOL_NAME  
+📅 Completed in 2020
 
 ---
 
