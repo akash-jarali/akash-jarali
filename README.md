@@ -12,10 +12,6 @@
 Passionate about building modern web applications, AI systems, and clean user experiences.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akash-jarali&label=Profile+Views&color=38BDF8&style=for-the-badge" />
-</p>
-
 ---
 
 # 💫 About Me
@@ -128,22 +124,15 @@ Responsive travel planning interface with modern UI and clean layout design.
 `HTML` `CSS` `JavaScript`
 
 ---
+
 # 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-jarali&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=420" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=akash-jarali&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-jarali&layout=compact&theme=tokyonight&hide_border=true&card_width=420" />
-</p>
-
----
-
-# 🔥 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-jarali&theme=tokyo-night&hide_border=true" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-jarali&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
