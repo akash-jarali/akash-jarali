@@ -134,7 +134,7 @@ Responsive travel planning interface with modern UI and clean layout design.
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=akash-jarali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-jarali&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=akash-jarali&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -142,7 +142,7 @@ Responsive travel planning interface with modern UI and clean layout design.
 # 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-jarali&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-jarali&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
