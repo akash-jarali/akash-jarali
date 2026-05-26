@@ -28,7 +28,7 @@ Passionate about building modern web applications, AI systems, and clean user ex
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,javascript,html,css,bootstrap,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql,git,github,vscode" />
 </p>
 
 ## 💻 Technical Skills
