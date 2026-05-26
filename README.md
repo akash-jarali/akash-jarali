@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Jarali</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Python+Developer;Frontend+Developer;Building+Modern+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student;Python+Developer;Frontend+Developer;Building+Modern+Projects" />
 </p>
 
 ---
@@ -21,7 +21,7 @@ Passionate about building modern web applications, AI systems, and clean user ex
 - 🎓 Final Year AI & Data Science Student
 - 💻 Python Developer Intern
 - 🚀 Building projects using Python, SQL, HTML, CSS & JavaScript
-- 🧠 Interested in AI, Backend Development & UI Design
+- 🧠 Interested in Artificial Intelligence, Backend Development & UI Design
 - 🏆 1st Prize Winner — DEEPSHIELD AI
 - 📌 KSCST Project Shortlisted
 
@@ -35,46 +35,139 @@ Passionate about building modern web applications, AI systems, and clean user ex
 
 ---
 
+## 💻 Technical Skills
+
+- **Languages:** Python, JavaScript
+- **Frontend:** HTML5, CSS3
+- **Database:** MySQL, SQLite
+- **Tools & Platforms:** Git, GitHub, VS Code
+- **Core Concepts:** Object-Oriented Programming, Data Structures, SQL
+- **Areas of Interest:** Artificial Intelligence, Backend Development, UI Design
+
+---
+
+# 💼 Experience
+
+## Python Developer Intern  
+📍 PRODHEE Technologies – Dhee Coding Lab
+
+- Worked on Python-based development tasks
+- Assisted in backend feature implementation
+- Worked with SQL, HTML & CSS
+- Contributed to debugging and maintenance
+
+---
+
 # 🚀 Featured Projects
 
-## 🔹 DEEPSHIELD AI
-AI-powered deepfake detection system using CNN-LSTM architecture for video analysis.
+# 🔹 DEEPSHIELD AI
 
-### Tech Stack
+### 🧠 Deepfake Detection System
+
+AI-powered deepfake detection system using CNN-LSTM architecture for spatial-temporal video analysis.
+
+### 🛠 Tech Stack
 `Python` `OpenCV` `CNN-LSTM`
 
 ---
 
-## 🔹 Lost & Found Tracker
-Web application for reporting and tracking lost/found items with smart matching logic.
+## 📸 Screenshots
 
-### Tech Stack
+### 🖥 Desktop View
+<img width="976" height="482" alt="image" src="https://github.com/user-attachments/assets/9769b497-ffab-4012-898e-2bb17e85e6cd" />
+<img width="1003" height="607" alt="image" src="https://github.com/user-attachments/assets/30297f17-2f98-4058-a121-b54ccb6b4a1b" />
+<img width="999" height="584" alt="image" src="https://github.com/user-attachments/assets/4ccb2ee7-aed6-4e44-845d-77ccdae56019" />
+
+---
+
+# 🔹 Lost & Found Tracker
+
+### 📦 Smart Lost & Found Management System
+
+Web application for reporting and tracking lost/found items with intelligent matching logic.
+
+### 🛠 Tech Stack
 `Python` `HTML` `CSS` `SQLite`
 
 ---
 
-## 🔹 Smart Expense Analyzer
-Expense tracking and financial analysis system using SQL queries and relational schema design.
+## 📸 Screenshots
 
-### Tech Stack
+### 🖥 Homepage
+
+![Homepage](<img width="1895" height="860" alt="image" src="https://github.com/user-attachments/assets/f1386582-e045-48ce-88b9-4888a24b059b" />
+)
+
+---
+
+### 📊 Dashboard
+
+![Report Section](<img width="1656" height="899" alt="image" src="https://github.com/user-attachments/assets/45dca611-37d9-4103-bb30-a212fac4f5cd" />
+)
+
+![Insight section](<img width="1798" height="787" alt="Screenshot 2026-05-26 160202" src="https://github.com/user-attachments/assets/e4480856-015c-48f4-9e66-c3c3df8ae772" />)
+
+---
+
+### 🌐 Live Deployment
+
+👉 https://akash004.pythonanywhere.com/
+---
+# 🔹 Smart Expense Analyzer
+
+### 💰 SQL-Based Expense & Budget Analysis System
+
+Database project focused on expense tracking, financial insights, and budget analysis using SQL queries and relational schema design.
+
+### 📌 Key Insights
+
+- Tracked user expenses across different categories
+- Analyzed monthly spending patterns
+- Generated budget utilization reports
+- Identified highest expense categories
+- Used SQL joins for relational data analysis
+- Applied aggregation functions for financial summaries
+- Implemented filtering and conditional queries for insights
+- Designed normalized relational database schema
+
+### 🛠 Tech Stack
+
 `Oracle SQL`
 
 ---
 
-## 🔹 Trip Planner Website
-Responsive travel planning interface with modern UI design.
+# 🔹 Trip Planner Website
 
-### Tech Stack
+Responsive travel planning interface with modern UI and clean layout design.
+
+### 🛠 Tech Stack
 `HTML` `CSS` `JavaScript`
 
+---
+
+# 🔹 Tic-Tac-Toe Game
+
+Interactive browser-based Tic-Tac-Toe game with modern UI and game logic.
+
+### 🛠 Tech Stack
+`HTML` `CSS` `JavaScript`
+
+---
+
+# 🔹 Rock Paper Scissors
+
+Fun browser game with score tracking and interactive gameplay.
+
+### 🛠 Tech Stack
+`HTML` `CSS` `JavaScript`
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akash-jarali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-jarali&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -82,15 +175,7 @@ Responsive travel planning interface with modern UI design.
 # 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-jarali&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -98,8 +183,25 @@ Responsive travel planning interface with modern UI design.
 # 🔥 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-jarali&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+# 🎓 Education
+
+## 🎓 B.E. in Artificial Intelligence & Data Science
+
+📍 Angadi Institute of Technology and Management  
+📅 2022 – 2026  
+📊 CGPA: 7.92 
+
+---
+
+# 🏆 Achievements
+
+- 🥇 1st Prize — DEEPSHIELD AI Project Exhibition
+- 📌 Shortlisted in KSCST Student Project Programme
 
 ---
 
@@ -123,13 +225,6 @@ Responsive travel planning interface with modern UI design.
 
 ---
 
-# 📚 Currently Learning
-
-- Advanced JavaScript
-- Backend Development
-- Machine Learning
-- Data Structures & Algorithms
-
 ---
 
 # 📌 Recommended Pinned Repositories
@@ -145,65 +240,18 @@ Responsive travel planning interface with modern UI design.
 
 ---
 
-# 📂 Recommended Repository Structure
-
-```txt
-project-name/
-│
-├── images/
-│   ├── homepage.png
-│   ├── mobile-view.png
-│   └── demo.gif
-│
-├── css/
-├── js/
-├── assets/
-├── README.md
-└── index.html
-```
-
----
-
-# 📸 Add Screenshots In Project README
-
-```md
-## 📸 Screenshots
-
-![Homepage](images/homepage.png)
-
-![Mobile](images/mobile-view.png)
-
-![Demo](images/demo.gif)
-```
-
----
-
 # 🔥 Tips To Make GitHub Look Premium
 
-✅ Use clean repository names  
 ✅ Add screenshots to every project  
 ✅ Add live demo links  
-✅ Keep consistent dark UI themes  
-✅ Write clean README files  
+✅ Use clean repository names  
 ✅ Push commits regularly  
+✅ Keep README files structured  
 ✅ Pin only best repositories  
-✅ Keep folder structure clean
+✅ Maintain consistent dark UI themes  
+✅ Keep repositories organized  
+✅ Add meaningful project descriptions
 
----
-
-# 🌐 Replace Placeholders
-
-```txt
-YOUR_GITHUB_USERNAME
-YOUR_LINKEDIN_URL
-YOUR_EMAIL
-```
-
-Example:
-
-```txt
-YOUR_GITHUB_USERNAME → akash-jarali
-```
 
 ---
 
