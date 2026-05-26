@@ -128,21 +128,23 @@ Responsive travel planning interface with modern UI and clean layout design.
 # 🎓 Education
 
 ## 🎓 B.E. in Artificial Intelligence & Data Science
-📍 Angadi Institute of Technology and Management  
+📍 Angadi Institute of Technology and Management Belagavi. 
 📅 2022 – 2026  
 📊 CGPA: 7.92
 
 ---
 
 ## 🏫 Pre-University College (PUC)
-📍 YOUR_PUC_COLLEGE_NAME  
+📍 S.D.V.S PU college Sankeshwar. 
 📅 2020 – 2022
+📊 Percentage: 84%
 
 ---
 
 ## 🏫 SSLC / 10th Standard
-📍 YOUR_SCHOOL_NAME  
+📍 Swami Vivekananda high school Kurani 
 📅 Completed in 2020
+📊 Percentage: 92.8%
 
 ---
 
