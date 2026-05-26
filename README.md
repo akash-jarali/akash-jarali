@@ -4,14 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student;Python+Developer;Frontend+Developer;Building+Modern+Projects" />
 </p>
 
----
-
 <h3 align="center">
 🚀 AI & Data Science Student | Python Developer | Web Developer
 </h3>
 
 <p align="center">
 Passionate about building modern web applications, AI systems, and clean user experiences.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akash-jarali&label=Profile%20Views&color=38BDF8&style=flat" />
 </p>
 
 ---
@@ -32,8 +34,6 @@ Passionate about building modern web applications, AI systems, and clean user ex
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql,git,github,vscode" />
 </p>
-
----
 
 ## 💻 Technical Skills
 
@@ -60,7 +60,7 @@ Passionate about building modern web applications, AI systems, and clean user ex
 
 # 🚀 Featured Projects
 
-# 🔹 DEEPSHIELD AI
+## 🔹 DEEPSHIELD AI
 
 ### 🧠 Deepfake Detection System
 
@@ -69,18 +69,15 @@ AI-powered deepfake detection system using CNN-LSTM architecture for spatial-tem
 ### 🛠 Tech Stack
 `Python` `OpenCV` `CNN-LSTM`
 
----
+### 📸 Project Preview
 
-## 📸 Screenshots
-
-### 🖥 Desktop View
-<img width="976" height="482" alt="image" src="https://github.com/user-attachments/assets/9769b497-ffab-4012-898e-2bb17e85e6cd" />
-<img width="1003" height="607" alt="image" src="https://github.com/user-attachments/assets/30297f17-2f98-4058-a121-b54ccb6b4a1b" />
-<img width="999" height="584" alt="image" src="https://github.com/user-attachments/assets/4ccb2ee7-aed6-4e44-845d-77ccdae56019" />
+<p align="center">
+<img width="850" src="https://github.com/user-attachments/assets/9769b497-ffab-4012-898e-2bb17e85e6cd" />
+</p>
 
 ---
 
-# 🔹 Lost & Found Tracker
+## 🔹 Lost & Found Tracker
 
 ### 📦 Smart Lost & Found Management System
 
@@ -89,31 +86,19 @@ Web application for reporting and tracking lost/found items with intelligent mat
 ### 🛠 Tech Stack
 `Python` `HTML` `CSS` `SQLite`
 
----
-
-## 📸 Screenshots
-
-### 🖥 Homepage
-
-![Homepage](<img width="1895" height="860" alt="image" src="https://github.com/user-attachments/assets/f1386582-e045-48ce-88b9-4888a24b059b" />
-)
-
----
-
-### 📊 Dashboard
-
-![Report Section](<img width="1656" height="899" alt="image" src="https://github.com/user-attachments/assets/45dca611-37d9-4103-bb30-a212fac4f5cd" />
-)
-
-![Insight section](<img width="1798" height="787" alt="Screenshot 2026-05-26 160202" src="https://github.com/user-attachments/assets/e4480856-015c-48f4-9e66-c3c3df8ae772" />)
-
----
-
-### 🌐 Live Deployment
+### 🌐 Live Demo
 
 👉 https://akash004.pythonanywhere.com/
+
+### 📸 Project Preview
+
+<p align="center">
+<img width="850" src="https://github.com/user-attachments/assets/f1386582-e045-48ce-88b9-4888a24b059b" />
+</p>
+
 ---
-# 🔹 Smart Expense Analyzer
+
+## 🔹 Smart Expense Analyzer
 
 ### 💰 SQL-Based Expense & Budget Analysis System
 
@@ -131,35 +116,17 @@ Database project focused on expense tracking, financial insights, and budget ana
 - Designed normalized relational database schema
 
 ### 🛠 Tech Stack
-
 `Oracle SQL`
 
 ---
 
-# 🔹 Trip Planner Website
+## 🔹 Trip Planner Website
 
 Responsive travel planning interface with modern UI and clean layout design.
 
 ### 🛠 Tech Stack
 `HTML` `CSS` `JavaScript`
 
----
-
-# 🔹 Tic-Tac-Toe Game
-
-Interactive browser-based Tic-Tac-Toe game with modern UI and game logic.
-
-### 🛠 Tech Stack
-`HTML` `CSS` `JavaScript`
-
----
-
-# 🔹 Rock Paper Scissors
-
-Fun browser game with score tracking and interactive gameplay.
-
-### 🛠 Tech Stack
-`HTML` `CSS` `JavaScript`
 ---
 
 # 📊 GitHub Stats
@@ -194,7 +161,7 @@ Fun browser game with score tracking and interactive gameplay.
 
 📍 Angadi Institute of Technology and Management  
 📅 2022 – 2026  
-📊 CGPA: 7.92 
+📊 CGPA: 7.92
 
 ---
 
@@ -202,6 +169,15 @@ Fun browser game with score tracking and interactive gameplay.
 
 - 🥇 1st Prize — DEEPSHIELD AI Project Exhibition
 - 📌 Shortlisted in KSCST Student Project Programme
+
+---
+
+# 📌 Current Focus
+
+- Backend Development
+- Machine Learning
+- Building Responsive UI Projects
+- Improving Problem Solving Skills
 
 ---
 
@@ -222,36 +198,6 @@ Fun browser game with score tracking and interactive gameplay.
 </a>
 
 </p>
-
----
-
----
-
-# 📌 Recommended Pinned Repositories
-
-```txt
-✔ LostFoundTracker
-✔ DEEPSHIELD-AI
-✔ smart-expense-analyzer
-✔ TripPlannerWebsite
-✔ Tic-Tac-Toe
-✔ Rock-Paper-Scissors
-```
-
----
-
-# 🔥 Tips To Make GitHub Look Premium
-
-✅ Add screenshots to every project  
-✅ Add live demo links  
-✅ Use clean repository names  
-✅ Push commits regularly  
-✅ Keep README files structured  
-✅ Pin only best repositories  
-✅ Maintain consistent dark UI themes  
-✅ Keep repositories organized  
-✅ Add meaningful project descriptions
-
 
 ---
 
