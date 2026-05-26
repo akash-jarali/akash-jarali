@@ -28,15 +28,16 @@ Passionate about building modern web applications, AI systems, and clean user ex
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,javascript,html,css,bootstrap,mysql,git,github,vscode" />
 </p>
 
 ## 💻 Technical Skills
 
 - **Languages:** Python, JavaScript
+- **Frameworks & Libraries:** Django, Bootstrap 5
 - **Frontend:** HTML5, CSS3
-- **Database:** MySQL, SQLite
-- **Tools & Platforms:** Git, GitHub, VS Code
+- **Database:** MySQL, Oracle SQL, SQLite
+- **Tools & Platforms:** Git, GitHub, VS Code, PythonAnywhere
 - **Core Concepts:** Object-Oriented Programming, Data Structures, SQL
 - **Areas of Interest:** Artificial Intelligence, Backend Development, UI Design
 
@@ -59,14 +60,12 @@ Passionate about building modern web applications, AI systems, and clean user ex
 ## 🔹 DEEPSHIELD AI
 
 ### 🧠 Deepfake Detection System
-
 AI-powered deepfake detection system using CNN-LSTM architecture for spatial-temporal video analysis.
 
 ### 🛠 Tech Stack
 `Python` `OpenCV` `CNN-LSTM`
 
 ### 📸 Project Preview
-
 <p align="center">
 <img width="850" src="https://github.com/user-attachments/assets/9769b497-ffab-4012-898e-2bb17e85e6cd" />
 </p>
@@ -76,18 +75,15 @@ AI-powered deepfake detection system using CNN-LSTM architecture for spatial-tem
 ## 🔹 Lost & Found Tracker
 
 ### 📦 Smart Lost & Found Management System
-
-Web application for reporting and tracking lost/found items with intelligent matching logic.
+Web application for reporting and tracking lost/found items with intelligent, score-based matching logic.
 
 ### 🛠 Tech Stack
-`Python` `HTML` `CSS` `SQLite`
+`Python` `Django` `Bootstrap 5` `SQLite` `PythonAnywhere`
 
 ### 🌐 Live Demo
-
-👉 https://akash004.pythonanywhere.com/
+👉 [Visit Lost & Found Tracker](https://akash004.pythonanywhere.com/)
 
 ### 📸 Project Preview
-
 <p align="center">
 <img width="850" src="https://github.com/user-attachments/assets/f1386582-e045-48ce-88b9-4888a24b059b" />
 </p>
@@ -97,31 +93,61 @@ Web application for reporting and tracking lost/found items with intelligent mat
 ## 🔹 Smart Expense Analyzer
 
 ### 💰 SQL-Based Expense & Budget Analysis System
-
 Database project focused on expense tracking, financial insights, and budget analysis using SQL queries and relational schema design.
 
 ### 📌 Key Insights
-
-- Tracked user expenses across different categories
-- Analyzed monthly spending patterns
-- Generated budget utilization reports
-- Identified highest expense categories
-- Used SQL joins for relational data analysis
-- Applied aggregation functions for financial summaries
-- Implemented filtering and conditional queries for insights
-- Designed normalized relational database schema
+- Tracked user expenses across different categories and analyzed spending patterns.
+- Generated budget utilization reports and identified highest expense categories.
+- Implemented complex relational data analysis using subqueries, aggregations, and JOINs.
 
 ### 🛠 Tech Stack
-`Oracle SQL`
+`Oracle SQL` `Data Modeling`
 
 ---
 
 ## 🔹 Trip Planner Website
 
-Responsive travel planning interface with modern UI and clean layout design.
+### ✈️ Holiday & Travel Package Planner
+A full-stack Django MVT website featuring destination inventories, custom search filters, interactive trip progress bars, and automated demo data seeding.
 
 ### 🛠 Tech Stack
-`HTML` `CSS` `JavaScript`
+`Python` `Django` `HTML5` `CSS3` `JavaScript` `Bootstrap`
+
+---
+
+## 🔹 DheeMail
+
+### 📧 Web-Based Email Simulator
+A modular backend system simulating custom user model authentication, messaging pipelines, and dedicated inbox/sent routing architectures.
+
+### 🛠 Tech Stack
+`Python` `Django` `MVT Architecture` `SQLite`
+
+---
+
+## 🔹 Rock Paper Scissors Game
+
+### 🎮 Interactive Arcade UI
+A clean, responsive browser game demonstrating dynamic DOM manipulation, real-time score state tracking, and condition matching patterns.
+
+### 🛠 Tech Stack
+`HTML5` `CSS3` `JavaScript (ES6)`
+
+### 🌐 Live Demo
+👉 [Play Rock Paper Scissors](https://akash-jarali.github.io/Rock-Paper-Scissors/)
+
+---
+
+## 🔹 Tic Tac Toe Game
+
+### ❌⭕ Logic-Driven Classic Game
+An interactive frontend web game focusing on conditional win-state/draw algorithms and responsive design layouts.
+
+### 🛠 Tech Stack
+`HTML5` `CSS3` `JavaScript`
+
+### 🌐 Live Demo
+👉 [Play Tic Tac Toe](https://akash-jarali.github.io/Tic-Tac-Toe/) *(Note: Swap this out for your actual link if it's hosted!)*
 
 ---
 
@@ -167,19 +193,15 @@ Responsive travel planning interface with modern UI and clean layout design.
 # 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://github.com/akash-jarali">
 <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
-
 <a href="https://www.linkedin.com/in/akash-jarali/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
-
 <a href="mailto:akashjarali36@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
-
 </p>
 
 ---
